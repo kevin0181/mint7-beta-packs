@@ -1,0 +1,11 @@
+{
+  "slug": "fixture-review-checklist",
+  "version": "1.0.0",
+  "kind": "skill",
+  "domain": "ai",
+  "title": "Review a small code change",
+  "summary": "Use a checklist and report only findings supported by the supplied change.",
+  "author": "kevin0181",
+  "license": "MIT",
+  "entry": { "skill": "SKILL.md", "installPath": ".agents/skills/review-checklist" }
+}

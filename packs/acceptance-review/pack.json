@@ -1,0 +1,11 @@
+{
+  "slug": "fixture-acceptance-review",
+  "version": "1.0.0",
+  "kind": "prompt",
+  "domain": "ai",
+  "title": "Review acceptance evidence",
+  "summary": "Compare supplied implementation evidence against each acceptance criterion.",
+  "author": "kevin0181",
+  "license": "MIT",
+  "entry": { "prompt": "PROMPT.md", "variables": ["criteria", "evidence"] }
+}

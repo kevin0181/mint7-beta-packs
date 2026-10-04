@@ -1,0 +1,12 @@
+{
+  "slug": "fixture-brief-summary",
+  "version": "1.0.0",
+  "kind": "prompt",
+  "domain": "ai",
+  "title": "Summarize an implementation brief",
+  "summary": "Turn supplied task notes into a concise brief with explicit open questions.",
+  "author": "kevin0181",
+  "license": "MIT",
+  "entry": { "prompt": "PROMPT.md", "variables": ["task"] },
+  "fixturePurpose": "test-only; unknown metadata must survive collection"
+}

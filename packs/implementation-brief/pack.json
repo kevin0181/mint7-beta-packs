@@ -1,0 +1,11 @@
+{
+  "slug": "fixture-implementation-brief",
+  "version": "1.0.0",
+  "kind": "skill",
+  "domain": "ai",
+  "title": "Prepare a concrete implementation brief",
+  "summary": "Separate confirmed requirements from unresolved decisions before implementation.",
+  "author": "kevin0181",
+  "license": "MIT",
+  "entry": { "skill": "SKILL.md", "installPath": ".agents/skills/implementation-brief" }
+}
